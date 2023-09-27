@@ -3,7 +3,6 @@
 const gulp = require("gulp");
 const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
-
 // const dist = "./dist/";
 const dist = "C:/MAMP/htdocs/test-window"; // это как у вас 
 // "C:\MAMP\htdocs\test-window"   это путь к моей папке
